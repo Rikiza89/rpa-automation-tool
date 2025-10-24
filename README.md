@@ -347,9 +347,8 @@ The GPL-3.0 ensures:
 ## 📞 Support
 
 For support, please:
-1. Check the [documentation](docs/)
-2. Search existing [issues](https://github.com/Rikiza89/rpa-automation-tool/issues)
-3. Create a new issue with detailed information
+1. Search existing [issues](https://github.com/Rikiza89/rpa-automation-tool/issues)
+2. Create a new issue with detailed information
 
 ## ⭐ Star History
 
