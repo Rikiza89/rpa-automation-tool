@@ -310,7 +310,23 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](LICENSE) file for details.
+
+### Why GPL-3.0?
+This project uses LGPL-licensed dependencies (PySide6, pynput), which require GPL-compatible licensing. 
+The GPL-3.0 ensures:
+- Full compliance with all dependencies
+- Your freedom to use, modify, and distribute
+- Protection of open-source principles
+
+### Third-Party Licenses
+- **PySide6**: LGPL 3.0
+- **pynput**: LGPL 3.0
+- **PyAutoGUI**: BSD 3-Clause
+- **Pillow**: PIL License
+- **Selenium**: Apache 2.0
+- **pandas**: BSD 3-Clause
+- **openpyxl**: MIT
 
 ## 👤 Author
 
