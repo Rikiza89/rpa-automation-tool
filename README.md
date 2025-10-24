@@ -183,6 +183,7 @@ rpa-automation-tool/
 ├── RPA2.py                 # Main application file
 ├── workflows.json          # Saved workflows (auto-generated)
 ├── requirements.txt        # Python dependencies
+├── LICENSE.md  
 └── README.md              # This file
 ```
 
