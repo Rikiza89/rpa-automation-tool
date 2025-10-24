@@ -310,7 +310,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](LICENSE.md) file for details.
 
 ### Why GPL-3.0?
 This project uses LGPL-licensed dependencies (PySide6, pynput), which require GPL-compatible licensing. 
@@ -331,7 +331,7 @@ The GPL-3.0 ensures:
 ## 👤 Author
 
 **Rikiza89**
-- GitHub: [@yourusername](https://github.com/Rikiza89)
+- GitHub: [@Rikiza89](https://github.com/Rikiza89)
 
 ## 🙏 Acknowledgments
 
