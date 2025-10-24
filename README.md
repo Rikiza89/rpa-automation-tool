@@ -1,4 +1,4 @@
-# 🤖 Advanced RPA Automation Tool
+# 🤖 RPA Automation Tool
 
 A powerful and user-friendly Robotic Process Automation (RPA) tool built with Python and PySide6. Automate repetitive tasks, record workflows, and execute complex automation sequences with ease.
 
