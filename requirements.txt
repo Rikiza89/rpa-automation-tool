@@ -1,1 +1,13 @@
 
+# Core Dependencies
+PySide6
+pyautogui
+pynput
+Pillow
+
+# Web Automation
+selenium
+
+# Data Processing
+pandas
+openpyxl
